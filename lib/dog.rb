@@ -6,4 +6,6 @@ class Dog
   def dog_name 
     @this_doggies_name
   end
+  
+  def dog_name=(my_name)
 end
